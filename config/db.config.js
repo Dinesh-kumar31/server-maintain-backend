@@ -1,5 +1,5 @@
 module.exports = {
     HOST: "localhost",
     PORT: 27071,
-    DB: "local"
+    DB: "server_maintain_db"
 };
